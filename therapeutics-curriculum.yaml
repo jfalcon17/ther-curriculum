@@ -13,13 +13,20 @@
       subjects:
       - PHRM2102
       - PHRM3102
+      los: 
+      - Identify the prevalence of AF and list the symptoms of AF
+      - Identify antiarrhythmic drugs and discuss the principal site of action and adverse effects for betablockers, amiodarone, flecanide, non-dihydropyridine calcium channel blockers, and digoxin
+      - Describe the management strategies for AF (rate vs rhythm control)
+      - Identify anticoagulant drugs and discuss their role in the stroke prevention for warfarin, dabigatran, apixaban, and rivaroxaban
+      - Describe the main points to educate a patient taking an anticoagulant including missed doses, adverse effects, and monitoring  
+      - Describe common drug interations and ways to mitigrate or avoid their risk 
     
     - name: Chronic coronary disease (formerly stable ischemic heart disease)
       subjects:
       - PHRM2102
       los:
       - Evaluate pharmacotherapeutic management of secondary prevention following ACS
-      - Identify MOA, adverse effects and outcome evidence for statins, ACEI/ARB, betablockers, [more?]
+      - Identify MOA, adverse effects for statins, ACEI/ARB, betablockers, nitrates, dihydropyridine calcium channel blockers, and DAPT/TT 
       - Evaluate cardiac risk
 
     - name: Dyslipidemia
@@ -29,24 +36,40 @@
       los:
       - Describe treatment goals
       - Evaluate cardiac risks including interpreting lab test
-      - Idenitfy MOA, adverse effect and outcome evidence for statins, ezitemide
+      - Idenitfy MOA, adverse effect and outcome evidence for statins, ezitemide, and PCSK9 inhibitors
 
-    - name: Heart failure, chronic
+    - name: Heart failure, chronic 
       subjects:
       - PHRM2102
       - PHRM4101
       - PHRM3102
-    
-    - name: Hypertension
+      los:
+      - Know the causes of HF and what are the common symptoms a patient experiences
+      - Identify MOA, adverse effects for diuretics, ACEI/ARBs, ARNI, Betablockers, SGLT2 inhibitors, mineralocorticoid receptor antagonists
+      - Describe the difference between reduced vs preserved ejection fraction, congestive HF, and acute HF
+      - Identify drug interactions with HF management drugs and which complementary medicines can worsen HF 
+      
+    - name: Hypertension (HTN)
       subjects:
       - PHRM2102
       - PHRM4101
       - PHRM3102
-    
+      los:
+      - Describe the pathogenesis of primary HTN and categories of HTN used for diagnosis
+      - Describe treatment goals
+      - Identify MOA, adverse effects for ACEI/ARBs, dihydropyridine calcium channel blockers, betablockers, and diurectics
+      - Evaluate therapy considerations with the comorbidity of diabetes and in pregnacy (gestational vs essential HTN)
+      
     - name: Venous thromboembolism, prevention, and treatment
       subjects:
       - PHRM2102
       - PHRM3102
+      los:
+      - Describe the pathophysiology and identify the risk factors
+      - Use of aspirin for VTE prophylaxis post-surgery
+      - Identify MOA, adverse effects, dosing, and monitoring for Xa inhibitors, direct thrombin inhibitors, heparin (unfractionated or LMW), warfarin, and fondaparinux
+      - Describe the main points to educate a patient taking an anticoagulant including missed doses
+      - Identify drug interactions with VTE management drugs
   
   - tier: 2
     conditions:
@@ -55,7 +78,9 @@
       subjects:
       - PHRM2102
       - PHRM4101
-      - ''
+      - '' 
+      los:
+      - morphine [tbc]
     
     - name: Advanced cardiac life support
       subjects:
